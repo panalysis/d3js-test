@@ -22,6 +22,8 @@ Three files are supplied:
 * Australian_Post_Codes_Lat_Lon.zip: A CSV file that contains the postcode, name of the suburb and the latitude and longitude coordinates for that suburb.
 
 ## Order Data File Fields
+| Field | Description |
+| --- | --- |
 | ID | Transaction Identifier |
 | Subtotal | The total revenue for all items purchased |	
 | Shipping | The cost of shipping the items |
