@@ -22,16 +22,16 @@ Three files are supplied:
 * Australian_Post_Codes_Lat_Lon.zip: A CSV file that contains the postcode, name of the suburb and the latitude and longitude coordinates for that suburb.
 
 ## Order Data File Fields
-ID | Transaction Identifier
-Subtotal | The total revenue for all items purchased	
-Shipping | The cost of shipping the items
-Taxes | Tax for the sale
-Total | Subtotal + Shipping + Taxes
-Created at | Date & time of the sale
-Billing City | Suburb for the customer
-Billing Zip	| Postcode for the customer
-Billing Province | State for the customer
-Billing Country | Country for the customer
+| ID | Transaction Identifier |
+| Subtotal | The total revenue for all items purchased |	
+| Shipping | The cost of shipping the items |
+| Taxes | Tax for the sale |
+| Total | Subtotal + Shipping + Taxes |
+| Created at | Date & time of the sale |
+| Billing City | Suburb for the customer |
+| Billing Zip	| Postcode for the customer |
+| Billing Province | State for the customer |
+| Billing Country | Country for the customer |
 
 ## Submitting Your Work
 Please create a zip file of your work and submit this via Upwork or alternative create a Git repository and send the details.
